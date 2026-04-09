@@ -47,9 +47,13 @@ The Define step identifies the core problem, defines key metrics such as the **N
 <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d51a34f4-a758-478e-af2e-fde901bd4c03" />
 
 
-### 3 Ideate
+### 3. Ideate
+This step leverages the growth formula breakdown of each perspective to brainstorm relevant insights across multiple dimensions of the North Star Metric.
 
-### 2.4 Prototype and review
+<img width="770" height="296" alt="image" src="https://github.com/user-attachments/assets/e4dfde47-2924-4257-9e41-6faa3710e781" />
+
+
+### 4. Prototype and review
 <img width="680" alt="image" src="https://github.com/mistletoegoegoe/Power_BI_Superstore_Sales/assets/121160527/466f9474-aa0d-4702-9b74-14e48d48af59">
 
 ## 3. Data dictionary
