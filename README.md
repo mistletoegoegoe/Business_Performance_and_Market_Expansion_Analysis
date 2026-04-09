@@ -72,7 +72,7 @@ The Define step identifies the core problem, defines key metrics such as the **N
 
 
 
-<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d51a34f4-a758-478e-af2e-fde901bd4c03" />
+<img width="900" height="347" alt="image" src="https://github.com/user-attachments/assets/0daadbb5-06a3-43a5-b8a2-49f8d1ce0f97" />
 
 
 ### 3. Ideate
