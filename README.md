@@ -78,7 +78,7 @@ The Define step identifies the core problem, defines key metrics such as the **N
 ### 3. Ideate
 This step leverages the growth formula breakdown of each perspective to brainstorm relevant insights across multiple dimensions of the North Star Metric.
 
-<img width="770" height="296" alt="image" src="https://github.com/user-attachments/assets/e4dfde47-2924-4257-9e41-6faa3710e781" />
+<img width="900" height="347" alt="image" src="https://github.com/user-attachments/assets/8a5db52e-249a-44a1-8980-37acc0bdbae0" />
 
 
 ### 4. Prototype and review
