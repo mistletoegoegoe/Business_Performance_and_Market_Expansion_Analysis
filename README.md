@@ -121,7 +121,7 @@ a. Strategic Product: Phones, Copiers, Bookcases
 b. The Global Anchor: Phones (specifically Apple Smart Phone):
 - Strategic Value: Phones are your highest revenue sub-category (~$0.6M) and sit in the "High Potential" quadrant.
 - Target Market: EMEA. While APAC is your biggest market, EMEA is growing at nearly 50% YoY. Use the Apple Smart Phone here, as it is your most "market-agnostic" product with proven success across EU, APAC, and LATAM.
-- 
+  
 c. The Efficiency Champion: Copiers
   
 - Strategic Value: Copiers generate nearly as much profit as Phones but with significantly lower sales volume and fewer orders.
